@@ -4,7 +4,7 @@ This project deals with building ResNet50 network from scratch using helper func
 It is part of Deep learning specialization in coursera but I extended the project by training the model on GPU's for more number of 
 epochs.
 
-_Code is written in Tensorflow-Keras.
+_Code is written in Tensorflow-Keras_
 
 ## Data
 
