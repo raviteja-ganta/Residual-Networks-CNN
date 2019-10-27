@@ -31,7 +31,7 @@ Data is included with this repo.
 
 ## Contents
 
-Jupyter notebook has following contents in order to build model and also for selecting best hyperparameters.
+Jupyter notebook has following contents in order to build model.
 * 1) The problem of very deep neural networks
 * 2) Identity block
 * 3) Convolutional block
